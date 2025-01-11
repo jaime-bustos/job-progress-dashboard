@@ -1,4 +1,4 @@
-# Job Search Analytics and ProgressDashboard
+# Job Search Analytics and Progress Dashboard
 
 ## Overview
 An interactive analytics dashboard built with Python and Dash that provides deep insights into your job application process. The dashboard leverages machine learning and NLP techniques to analyze application patterns, track progress, and provide meaningful insights about your job search journey. This dashboard can be adated to  any job search, however it is tailored to the tech industry.
