@@ -122,7 +122,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - The Python community for excellent data science tools
 
 ## Contact
-Jaime Bustos - [@yourtwitter](https://twitter.com/yourtwitter)
+Jaime Bustos - www.jaimebustos.com
 
-Project Link: [https://github.com/yourusername/job-progress-dashboard](https://github.com/jaime-bustos/job-progress-dashboard)
+Project Link: [https://github.com/jaime-bustos/job-progress-dashboard](https://github.com/jaime-bustos/job-progress-dashboard)
 
