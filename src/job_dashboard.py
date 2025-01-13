@@ -9,7 +9,7 @@ from job_analyzer import JobAnalyzer
 
 # load data
 your_file_name = "example.xlsx"
-file_path = "/Users/jaimebustosjr/Projects/job-progress-dashboard/src/" + your_file_name
+file_path = "/your_path_directory/" + your_file_name
 df = pd.read_excel(file_path)
 
 # convert 'Date Applied' to datetime
